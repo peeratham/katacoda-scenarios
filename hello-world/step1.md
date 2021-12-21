@@ -1,4 +1,3 @@
-PostgreSQL (pronounced “post-gress-Q-L”)
 เริ่มต้นด้วยการติดตั้ง PostgreSQL ใน Docker container
 
 run container ชื่อ postgres จาก postgres image (detached mode = รัน in background) default user: postgres จะถูกสร้างขึ้น 
