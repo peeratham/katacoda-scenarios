@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Basics of SQL and Relational Database",
+  "description": "Basics of SQL and Relational Database",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "50 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "ubuntu:1804"

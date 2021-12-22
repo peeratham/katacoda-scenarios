@@ -1,4 +1,2 @@
-บทเรียนออนไลน์ SQL และการวิเคราะห์ข้อมูลเบื้องต้น
-
-PostgreSQL (pronounced "post-gress-Q-L")
-version 21-13.36
+บทเรียนออนไลน์ SQL และ Relational Database Management เบื้องต้น
+version 22-11.56
