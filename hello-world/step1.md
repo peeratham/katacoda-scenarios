@@ -64,7 +64,7 @@ https://sqlbolt.com/lesson/inserting_rows
 `INSERT INTO sensors(type, location, reading) VALUES ('temperature', 'S1', 22.0),('temperature', 'S1', 23.0),('temperature', 'S2', 24.0),('temperature', 'S2',  25.0),('temperature', NULL, 20.0),('humidity', 'S1', 0.6),('humidity', 'S2', 0.7),('humidity', NULL, 0.4);`{{execute}}
 
 
-`SELECT * FROM sensors`{{execute}}
+`SELECT * FROM sensors;`{{execute}}
 
 `CREATE TABLE buildings(building_id VARCHAR(50) PRIMARY KEY, address VARCHAR(50));`{{execute}}
 
