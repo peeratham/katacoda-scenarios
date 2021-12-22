@@ -1,11 +1,11 @@
 {
-  "title": "Basics of SQL and Relational Database",
-  "description": "Basics of SQL and Relational Database",
+  "title": "SQL และ Relational Database เบื้องต้น",
+  "description": "SQL และ Relational Database เบื้องต้น",
   "difficulty": "beginner",
   "time": "50 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "บทเรียนออนไลน์",
       "text": "step1.md"
     }],
     "intro": {
